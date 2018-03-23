@@ -1,2 +1,2 @@
 # Diabetes-Ring
-Notebook the generates a weekly diabetes ring.
+Notebook the generates a weekly diabetes ring using Dexcom data.
