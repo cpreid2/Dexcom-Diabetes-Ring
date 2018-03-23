@@ -1,5 +1,5 @@
 # Diabetes-Ring
-Notebook the generates a weekly diabetes ring using Dexcom data.
+Notebook the generates a weekly diabetes ring using data from the Dexcom API.
 
 ![Diabetes Ring](images/Diabetes-Ring.png)
 
