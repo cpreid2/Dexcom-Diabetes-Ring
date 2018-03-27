@@ -1,5 +1,5 @@
 # Diabetes-Ring
-Notebook the generates a weekly diabetes ring using data from the Dexcom API.
+Notebook the generates a weekly or daily diabetes ring using data from the Dexcom API.
 
 ![Diabetes Ring](images/DiabetesRing.png)
 
@@ -7,4 +7,10 @@ Notebook the generates a weekly diabetes ring using data from the Dexcom API.
 * Green means in range
 * Outer ring is Monday
 * Inner ring is Sunday
+* Ring represents 24 hr period
+
+![Diabetes Ring](images/Glucose Circle.png)
+* Red means out of range (range specified in notebook)
+* Yellow means look out!
+* Green means in range
 * Ring represents 24 hr period
