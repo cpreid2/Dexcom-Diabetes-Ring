@@ -1,6 +1,9 @@
 # Diabetes-Ring
 Notebook the generates a weekly or daily diabetes ring using data from the Dexcom API.
 
+![Diabetes Ring](images/Glucose_Circle_Updated.png)
+
+# Questions
 * How's your blood sugar?  
 * What are your numbers?  
 * Are you under contol?  
