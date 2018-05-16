@@ -27,8 +27,3 @@ Answer: A diabetes ring!  See images below:
 * Inner ring is Sunday
 * Ring represents 24 hr period
 
-![Diabetes Ring](images/Glucose_Circle.png)
-* Red means out of range (range specified in notebook)
-* Yellow means look out!
-* Green means in range
-* Ring represents 24 hr period
